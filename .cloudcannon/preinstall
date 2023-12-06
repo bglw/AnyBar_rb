@@ -1,2 +1,2 @@
-mkdir -f vendor
+mkdir vendor
 ls vendor
